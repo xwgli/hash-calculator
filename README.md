@@ -1,13 +1,12 @@
 hash-calculator
 ===============
 
-MD5-SHA1-SHA256-SHA512 File Hash Calculator
+MD5-SHA1-SHA256-SHA512 文件 Hash 计算器
 
-![Screenshot](http://www.clodo.it/host/images/8150ddad8692552a94e5c96eedef7024101309b6.png)
+汉化了界面，加入文件拖放支持、加入Base64输出支持。
 
-For Microsoft Windows. Run under Linux and OS X with Mono.
+原项目支持 Mono，修改后未测试。
 
-Maded for AirVPN Community
-https://airvpn.org/faq/software_signatures/
+原项目：https://github.com/AirVPN/hash-calculator
 
 Released under GPL3
